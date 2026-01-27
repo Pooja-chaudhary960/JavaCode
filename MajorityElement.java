@@ -8,7 +8,7 @@ package com.mycompany.main;
  *
  * @author Acer
  */
-// Find Majority Element
+// Finding Majority Element by using Moore's voting Algorithm.
 
 public class MajorityElement {
     public static void main(String[] args)
